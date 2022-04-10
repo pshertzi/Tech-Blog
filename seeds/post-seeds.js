@@ -4,7 +4,7 @@ const postData = [
     {
         title: "Ginyu Force rules",
         post_content: "Ginyu Force rules! Ginyu Forece Rules! Ginyu Force Rules!",
-        user_id: 3
+        user_id: 4
     },
     {
         title: "Coco keeps sleeping in my bed",
@@ -21,7 +21,7 @@ const postData = [
     {
         title: "Just Tech News goes public!",
         post_content: "Just Tech News—a tech news website where users can post, upvote, and comment on links to news articles. Use Sequelize, an object-relational mapping (ORM) library, to simplify your MySQL queries, add password hashing so that users can create secure passwords, and connect your application to JawsDB, a MySQL add-on for Heroku",
-        user_id: 4
+        user_id: 3
     },
 ]
 
